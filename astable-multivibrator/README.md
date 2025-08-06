@@ -29,7 +29,8 @@ Real-time simulation done using [Falstad Circuit Simulator](https://falstad.com/
 
 ## 📹 Real-life Demo
 
-`/videos/VID_20250806_140842 (1).mp4` *(open via GitHub or clone the repo to play)*
+> 🔗 [▶ Watch on X (Twitter)](https://x.com/georgexlabs_/status/1953119502637453707)  
+Video showing the real-life blinking behavior of the circuit.
 
 ---
 
@@ -52,3 +53,4 @@ August 2025
 ---
 
 > Simple, effective, and a great way to understand multivibrator circuits.
+
