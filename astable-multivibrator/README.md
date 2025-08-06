@@ -22,14 +22,14 @@ This is a basic transistor-based astable multivibrator circuit that alternately 
 
 ## 🖥️ Simulation (Falstad)
 
-![Simulation](./images/simulation.png)  
+![Simulation](./videos/real simulation.mp4)  
 Real-time simulation done using [Falstad Circuit Simulator](https://falstad.com/circuit/)
 
 ---
 
 ## 📹 Real-life Demo
 
-`/video/real-life-demo.mp4` *(open via GitHub or clone the repo to play)*
+`/videos/VID_20250806_140842 (1).mp4` *(open via GitHub or clone the repo to play)*
 
 ---
 
